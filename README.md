@@ -11,9 +11,7 @@ The project demonstrates a complete frontend–backend integration, focusing on 
 🌐 Live Deployment
 
 🔗 Live Application:
-👉 Add your deployed link here
 
-https://your-deployed-restaurant-app-link.com
 
 
 Visitors can use this link to view the menu and make reservations in real time.
